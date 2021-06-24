@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there 👋 Welcome!
 
+****I am Meenakshi.****
 <!--
 **MBtions/mbtions** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+- 👩‍🎓 I'm a Student pursuing Majors in Computer Science.
+- 🔭 I’m currently working on a Web Application using Flask and an Android Application using JetPack Compose.
+- 🌱 I’m currently learning Website development, Deep Learning NLP models, etc.
+- 👯 I’m looking to collaborate on a Machine Learning, Deep Learning Projects.
+- 🤔 I’m looking for help with 
+- 💬 Ask me about Programming Languages- C++, JAVA, Python, Data Structures and Algorithms, etc.
+- 📫 How to reach me: twitter.com/MBtions, linkedin.com/in/minakshi29bharadwaj
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I am not a Pro, Just Learning and Implementing here on this platform.
