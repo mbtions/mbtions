@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on a Web Application using Flask and an Android Application using JetPack Compose.
 - 🌱 I’m currently learning Website development, Deep Learning NLP models, etc.
 - 👯 I’m looking to collaborate on a Machine Learning, Deep Learning Projects.
-- 🤔 I’m looking for help with 
+- 🤔 I’m looking for help with Progressive Web Apps Development.
 - 💬 Ask me about Programming Languages- C++, JAVA, Python, Data Structures and Algorithms, etc.
 - 📫 How to reach me: twitter.com/MBtions, linkedin.com/in/minakshi29bharadwaj
 - 😄 Pronouns: She/Her
