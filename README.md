@@ -1,7 +1,14 @@
-![MBtions]("https://linkt.ree/MBtions")
 ### Hi there 👋 Meenakshi here!
 
-****I am Meenakshi.****
+**I am Meenakshi.**
+
+## What I know?
+### Languages:
+#### C++, Java, Python
+### Databases:
+#### MySQL
+### Backend:
+#### Flask
 <!--
 **MBtions/mbtions** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
