@@ -1,1 +1,1 @@
-<center><h1> Hey👋 I am <strong>Meenakshi</strong> </h1></center>
+#<h1> Hey there!👋 I am <strong>Meenakshi</strong> </h1>
