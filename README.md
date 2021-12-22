@@ -11,11 +11,11 @@
 <hr>
 <h3>Worked with</h3>
   <p>Flask Backend</p>
-  <p>Nodejs</p>
+  <p>Node JS</p>
 
 <hr>
 <h3>Currently learning</h3>
-   <p>React</p>
+   <p>React JS</p>
 
 <hr>
 <h4>I share about the opportunities @MBtions on <i class="fab fa-twitter"><a target="_blank" href="https://twitter.com/MBtions">Twitter</a></i> <i class="fab fa-linkedin"><a href="">LinkedIn</a></i></h4>
