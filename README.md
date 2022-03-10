@@ -17,7 +17,8 @@
 
 <hr>
 <h3>✍Currently learning</h3>
-   <p><i class="fab fa-react"></i>React JS</p>
+   <p><i class="fab fa-react"></i>React JS [Paused]</p>
+   <p><i class="fab fa-flutter"></i>Flutter App Development [Played]</p>
 
 <hr>
 <h4>I share about the opportunities <span style="color:goldenrod;">@MBtions</span> on <i class="fab fa-twitter"></i><a target="_blank" href="https://twitter.com/MBtions">Twitter</a> <i class="fab fa-linkedin"></i><a href="https://linkedin.com/in/mbtions" target="_blank">LinkedIn</a></h4>
