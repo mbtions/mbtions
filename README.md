@@ -6,18 +6,15 @@
   <p>🙌I am an explorer who likes to explore every domain.</p>
   <p>💡💻Have a keen interest in learning technologies.</p>
 
-<hr>
 <h3>💻Tech Stack</h3>
   <p>Flutter App Developement📱</p>
   <p>Web Development🖥</p>
  
-<hr>
 <h3>👩‍💻Worked with</h3>
   <p><i class="fa fa-database" aria-hidden="true"></i>Flask Backend</p>
   <p><i class="fab fa-node-js"></i>Node JS</p>
   <p>NLP Transformer Models- BERT, GPT-2, XLNet, etc</p>
 
-<hr>
 <h3>✍Currently learning</h3>
   <ul>
     <li>React JS [PAUSED]</li>
