@@ -14,6 +14,7 @@
 ![NLP](https://img.shields.io/badge/NLP-%230059AC?style=for-the-badge&logoColor=white)
 
 ### ✍ Currently learning
+- ![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 - React JS [PAUSED]
 - Flutter [PLAYED]
 - UI/UX Designing
@@ -26,7 +27,7 @@
 <br>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mbtions) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@mbtions) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/meenakshixd) <br><br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mbtions) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@mbtions) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/meenakshixd) [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=flat&logo=hashnode&logoColor=white)](https://hashnode.com/@minax) [![Leetcode](https://img.shields.io/badge/-LeetCode-1f1f1f?style=flat&logo=LeetCode&logoColor=orange)](https://leetcode.com/meenakshibharadwaj/) [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/meenakshibharad1) <br><br>
 
 ## 📊 GitHub Stats:
 <img src="https://github-readme-stats-abhishekdoshi26.vercel.app/api?username=mbtions&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true" height=150px>  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mbtions&theme=highcontrast&hide_border=false" height=150px><br/><br>
