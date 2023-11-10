@@ -1,4 +1,4 @@
-<!--
+
 ## Hey there!👋 I am **Meenakshi**
 ### 🙋‍♀️ About Me
 - 🙌 I am an Explorer, who likes to explore every domain.
@@ -36,4 +36,3 @@ P.S.: Have a great time!🙌❤
   
 ### 💰 Want to Help?
 [![BuyMeABook](https://img.shields.io/badge/Buy%20Me%20a%20Book-ffdd00?style=for-the-badge&logo=buy-me-a-book&logoColor=black)](https://buymeacoffee.com/mbtions) 
--->
