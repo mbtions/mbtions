@@ -3,8 +3,8 @@
 ### 🙋‍♀️ About Me
 - 🙌 I am an Explorer, who likes to explore every domain.
 - 👩‍💻 Have a keen interest in learning technologies.
-- I share my experiences on my socials [![@MBtions](https://img.shields.io/badge/MBtions-172B4D?style=flat&logo=Opsgenie&logoColor=white)](https://linktr.ee/mbtions)  
-and my knowledge on [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCXk7e710P2K1AkxbWfny_Pw)  
+- I share <!--my experiences on my socials [![@MBtions](https://img.shields.io/badge/MBtions-172B4D?style=flat&logo=Opsgenie&logoColor=white)](https://linktr.ee/mbtions)  
+and--> my knowledge on [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCXk7e710P2K1AkxbWfny_Pw)  
 P.S.: Have a great time!🙌❤  
   
 ![MBtions](https://komarev.com/ghpvc/?username=mbtions&label=visitors&color=blue&style=flat)
